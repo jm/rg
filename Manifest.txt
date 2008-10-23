@@ -1,0 +1,17 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/rg
+lib/rg.rb
+lib/rg/generator.rb
+lib/rg/runner.rb
+lib/rg/store.rb
+lib/rg/scm/git.rb
+lib/rg/scm/svn.rb
+lib/builtin/bort.rb
+lib/builtin/entp.rb
+lib/builtin/thoughtbot.rb
+spec/rg_spec.rb
+spec/spec_helper.rb
+test/test_rg.rb

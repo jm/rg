@@ -1,0 +1,3 @@
+template(:awesome) do
+  puts "DUDE"
+end
